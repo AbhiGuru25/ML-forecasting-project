@@ -219,19 +219,6 @@ Enhance your productivity with these keyboard shortcuts:
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-
-### Interactive Charts
-![Charts](https://via.placeholder.com/800x400?text=Interactive+Charts)
-
-### Model Comparison
-![Comparison](https://via.placeholder.com/800x400?text=Model+Comparison)
-
----
-
 ## 💻 Installation
 
 ### Prerequisites
@@ -338,13 +325,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Abhi Virani**  
 📧 Email: [abhivirani2556@gmail.com](mailto:abhivirani2556@gmail.com)  
 🔗 GitHub: [@AbhiGuru25](https://github.com/AbhiGuru25)  
-💼 LinkedIn: [Connect with me](https://linkedin.com/in/abhivirani)
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/abhi-virani-a37138294/)
 
 ---
 
 ## 📝 License
 
-This project was created as part of the **Unified Mentor ML Internship Program**.
+This project was created as part of the Internship Program
 
 ---
 
@@ -354,14 +341,6 @@ This project was created as part of the **Unified Mentor ML Internship Program**
 - **Prophet** by Facebook Research
 - **InterpretML** by Microsoft Research
 - **Chart.js** community for excellent documentation
-
----
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/AbhiGuru25/ML-forecasting-project)
-![GitHub last commit](https://img.shields.io/github/last-commit/AbhiGuru25/ML-forecasting-project)
-![GitHub stars](https://img.shields.io/github/stars/AbhiGuru25/ML-forecasting-project?style=social)
 
 ---
 

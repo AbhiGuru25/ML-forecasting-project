@@ -6,7 +6,7 @@
 [![ML Models](https://img.shields.io/badge/ML-Prophet%20%7C%20EBM-blue)](https://github.com/AbhiGuru25/ML-forecasting-project)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/AbhiGuru25/ML-forecasting-project)
 
-Websit: https://ml-forecasting-project.onrender.com
+## Website: https://ml-forecasting-project.onrender.com
 ---
 
 ## � Table of Contents

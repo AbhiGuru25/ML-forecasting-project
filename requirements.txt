@@ -1,0 +1,2 @@
+# No dependencies needed for basic Python HTTP server
+# Python 3.8+ is included by default on Render

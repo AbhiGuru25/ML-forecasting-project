@@ -6,6 +6,7 @@
 [![ML Models](https://img.shields.io/badge/ML-Prophet%20%7C%20EBM-blue)](https://github.com/AbhiGuru25/ML-forecasting-project)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/AbhiGuru25/ML-forecasting-project)
 
+Websit: https://ml-forecasting-project.onrender.com
 ---
 
 ## � Table of Contents
@@ -103,7 +104,7 @@ This project implements an **interactive web-based dashboard** for predicting pa
 
 ### Option 2: GitHub Pages (Live Demo)
 
-####Visit the live demo at: https://ml-forecasting-project.onrender.com
+Visit the live demo at: https://ml-forecasting-project.onrender.com
 ---
 
 ## 📁 Project Structure
